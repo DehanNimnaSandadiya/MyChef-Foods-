@@ -1,28 +1,31 @@
-# My Chef
+# 🍴 My Chef Foods
 
-*A clean and modern UI prototype for the My Chef app — perfect for showcasing your design vision.*
-
----
-
-##  Figma Design Preview
-
-[![Figma Preview](./assets/figma-preview.png)](https://www.figma.com/design/hh78FaGVxVbrYnEaNF8iL3/My-chef?node-id=36-923&t=YBrAhxlCVcy9Oa8c-1)
-
-*Click the image to explore the design in Figma.*
+**My Chef Foods** is a full-stack food delivery and recipe management web application.  
+It provides users with an easy way to explore recipes, manage meals, and order food online.  
+The project includes both frontend, backend, and database integration.  
 
 ---
 
-##  Features
+## 🎨 Figma Design (UI/UX by Abhilash)
 
-- Sleek, intuitive UI tailored for culinary enthusiasts  
-- Mobile-first layout with responsive patterns  
-- Engaging visuals and consistent typography to elevate user interaction
+[![Figma Preview](./assets/Tumbnail.png)](https://www.figma.com/design/hh78FaGVxVbrYnEaNF8iL3/My-chef?node-id=36-923&t=YBrAhxlCVcy9Oa8c-1)  
+
+*Click the image to view the full design on Figma.*  
 
 ---
 
-##  Installation (for integration or dev)
+## 🛠️ Tech Stack
 
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-   cd YOUR_REPO_NAME
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Node.js (placeholder — update if different)  
+- **Database:** MongoDB  
+- **Design & Prototyping:** Figma  
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+cd YOUR_REPO_NAME
